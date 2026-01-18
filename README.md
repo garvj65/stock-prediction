@@ -1,6 +1,6 @@
 # 📈 Stock Price Prediction & Analysis using Machine Learning
 
-This project implements an end-to-end stock analysis and price prediction system using historical market data and machine learning techniques. It is designed as an educational project to demonstrate data analysis, feature engineering, and regression-based modeling on financial time-series data.
+The project implements a stock analysis and price prediction system using historical market data and machine learning techniques. 
 
 ---
 
@@ -59,12 +59,6 @@ The application:
 
 ---
 
-## ⚠️ Disclaimer
-
-This project is intended for **educational purposes only**.  
-Stock prices are influenced by numerous external factors such as news, market sentiment, and macroeconomic events. The model captures historical patterns but does not guarantee future performance.
-
----
 
 ## ▶️ How to Run
 
@@ -72,3 +66,8 @@ Stock prices are influenced by numerous external factors such as news, market se
    ```bash
    git clone https://github.com/your-username/stock-price-prediction.git
    cd stock-price-prediction
+   ```
+2. Run the program:
+   ```bash
+   python stock.py
+  
